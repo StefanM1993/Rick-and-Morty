@@ -1,0 +1,33 @@
+.CharacterCard__name {
+  background-color: white;
+  text-align: center;
+  border-radius: 4px;
+}
+
+.CharacterCard {
+  padding: 15px;
+  border-radius: 4px;
+  margin: 0 auto;
+}
+
+.CharacterCard__name > h5 {
+  margin-top: -4px;
+}
+
+.CharacterCard__name > button {
+  width: 70%;
+  margin-bottom: 10px;
+}
+
+.CharacterCard__text {
+  padding-top: 10px;
+}
+
+.CharacterCard__btn {
+  color: green;
+}
+
+.CharacterCard__btn:hover {
+  background-color: rgb(122, 202, 3);
+  color: white;
+}
